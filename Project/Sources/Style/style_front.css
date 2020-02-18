@@ -1,0 +1,77 @@
+.navbar {
+      margin-bottom: 0 !important;
+      border-radius: 0;
+    }
+
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+  .carousel-inner img {
+      width: 100%;
+      margin: auto;
+      min-height:200px;
+	max-height:400px;
+  }
+
+  @media (max-width: 600px) {
+    .carousel-caption {
+      display: none;
+    }
+  }
+
+  .hlavicka_tabulky{
+   background:linear-gradient(135deg, orange, yellow 60%, orange);
+   text-align: center !important;
+}
+
+
+.posuvnik {
+ height: 500px !important;
+overflow-y: scroll;
+ overflow-x: hidden;
+
+}
+
+th  {
+ text-align: center !important;   
+}
+
+.sude_radky {
+  background: #f7f5be;
+}
+
+
+.finder{
+        position: fixed;
+        width: 15%;
+        border: 1.5px solid #f5c749;
+        border-radius: 5px;
+        right: 0;
+              text-align: center;
+        
+    } 
+    
+.finder h3{
+        background: linear-gradient(135deg, orange, yellow 60%, orange);
+        margin-top: 0px;
+        font-weight: bold;
+        padding: 5px;
+}   
+    
+    
+    .finder form
+    {
+         margin-left: 5px !important;
+    }
+    
+    .finder input
+    {
+        margin-bottom: 5px;
+    }
+    
+    .finder input[type=submit]
+    {
+       margin-bottom: 10px;
+    }

@@ -1,0 +1,4 @@
+Po pøedání je nutné zmìnit:
+
+Název každé stránky
+Soubor skriptu <sale.php> obsahuje redirect na web
